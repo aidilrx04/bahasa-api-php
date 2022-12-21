@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Kite One
+- Font Author: Copyright (c) 2012, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name 'Kite'
+- Font Source: http://fonts.gstatic.com/s/kiteone/v20/70lQu7shLnA_E02vyq1b6HnGO4uA.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
